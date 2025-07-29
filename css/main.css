@@ -1109,7 +1109,7 @@
     transition: 800ms;
     transition-property: transform, opacity, top;
     transform: scaleY(1);
-    background-image: url("../assets/img/Celebrating_mobile.png");
+    background-image: url("https://digital.bancodebogota.com/credito/assets/img/Celebrating_mobile.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -1122,7 +1122,7 @@
 @media (min-width: 767px) {
     .how-to-get-it-animation-show .img__main--normal {
         height:823px;
-        background-image: url("../assets/img/celebrating.png");
+        background-image: url("https://digital.bancodebogota.com/credito/assets/img/Celebrating_mobile.png");
         right: -75px;
         top: 0;
         background-size: auto
