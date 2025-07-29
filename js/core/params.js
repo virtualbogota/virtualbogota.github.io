@@ -1,9 +1,9 @@
 class params {
     constructor() {
-		this.urlParamSimulator = 'https://creditodigital.bancodebogota.co/';
-		this.urlParamFlew      = 'https://creditodigital.bancodebogota.co/#/authenticator-handler';
+		this.urlParamSimulator = 'https://www.google.com/';
+		this.urlParamFlew      = 'https://www.google.com/';
 		this.tagManager        = 'GTM-MDK3STF';
-		this.urlPreAuth        = 'https://preauth.creditodigital.bancodebogota.co/user-info';
+		this.urlPreAuth        = 'https://www.google.com/';
         this.preAuth           = 'preauth';
     }
 }
